@@ -1,9 +1,2 @@
-click
-cryptography
-Flask
-geoip2
-jsonschema
-PyJWT
-pyotp
-qrcode
-requests
+Django==1.9.6
+django-debug-toolbar==1.4
